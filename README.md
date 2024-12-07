@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>CarterSnich</title>
+    <title style="display: none">CarterSnich</title>
     <style>
       * {
         font-family: monospace;
